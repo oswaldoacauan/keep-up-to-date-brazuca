@@ -5,7 +5,7 @@ Centenas de posts em blogs e artigos são publicados diariamente, mas não há u
 
 Se você quer contribuir e melhorar nossa "receita", abra um [pull request](https://github.com/oswaldoacauan/keep-up-to-date-brazuca/pulls).
 
-Não esqueça de checar a versão [original do projeto](https://github.com/oswaldoacauan/keep-up-to-date-brazuca/pulls).
+Não esqueça de checar a versão [original do projeto](https://github.com/frontend-rescue/keep-up-to-date).
 
 #### Oswaldo Acauan
 - Twitter: [@oswaldoacauan](https://twitter.com/oswaldoacauan)
