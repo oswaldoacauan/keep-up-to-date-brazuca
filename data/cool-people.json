@@ -160,5 +160,14 @@
             "img": "//pbs.twimg.com/profile_images/644604079096889344/zIcg-zlU_bigger.jpg"
         },
         "tags": []
+    },
+    {
+        "name": "Daniel Schmitz",
+        "site": "http://www.danielschmitz.com.br",
+        "twitter": {
+            "user": "daniel_schmitz",
+            "img": "https://pbs.twimg.com/profile_images/2707050863/5cdf1e5930df26e61f8308e3fe63ea68.png"
+        },
+        "tags": []
     }
 ]
