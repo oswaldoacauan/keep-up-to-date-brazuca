@@ -160,5 +160,14 @@
             "img": "//pbs.twimg.com/profile_images/644604079096889344/zIcg-zlU_bigger.jpg"
         },
         "tags": []
+    },
+    {
+        "name": "Rafael Fragoso"
+        "site": "https://github.com/rafaelfragosom",
+        "twitter": {
+            "user": "rfragosodev",
+            "img": "//pbs.twimg.com/profile_images/652301575755550720/DNIPDNf__bigger.jpg"
+        },
+        "tags": []
     }
 ]
