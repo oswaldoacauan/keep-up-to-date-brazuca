@@ -40,7 +40,7 @@
         "site": "http://danielfilho.github.io/",
         "twitter": {
             "user": "danielfilho",
-            "img": "//pbs.twimg.com/profile_images/589908519765336066/7cyTqNxa_bigger.jpg"
+            "img": "//pbs.twimg.com/profile_images/653705935802769408/Qqfp69Bn_bigger.jpg"
         },
         "tags": []
     },
@@ -148,7 +148,7 @@
         "site": "http://jaydson.org/",
         "twitter": {
             "user": "jaydson",
-            "img": "//pbs.twimg.com/profile_images/453720347620032512/UM2nE21c_bigger.jpeg"
+            "img": "//pbs.twimg.com/profile_images/651961298398375936/bJiGtvgO_bigger.jpg"
         },
         "tags": []
     },
@@ -158,6 +158,15 @@
         "twitter": {
             "user": "felquis",
             "img": "//pbs.twimg.com/profile_images/644604079096889344/zIcg-zlU_bigger.jpg"
+        },
+        "tags": []
+    },
+    {
+        "name": "Rafael Fragoso",
+        "site": "https://github.com/rafaelfragosom",
+        "twitter": {
+            "user": "rfragosodev",
+            "img": "//pbs.twimg.com/profile_images/652301575755550720/DNIPDNf__bigger.jpg"
         },
         "tags": []
     }
